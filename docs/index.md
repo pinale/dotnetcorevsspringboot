@@ -2,6 +2,7 @@
 ### A not comprehensive side by side comparison
 
 
+
 * Create a project  (skaffolding)
 
 * Add class/components
@@ -15,5 +16,7 @@
 * Data Persistence
 
 * Deploy
+
+* Generators
 
 * External resources
