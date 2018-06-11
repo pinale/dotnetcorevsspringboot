@@ -20,3 +20,8 @@
 * Generators
 
 * External resources
+```java
+public class Example {
+  //comment here
+}
+```
