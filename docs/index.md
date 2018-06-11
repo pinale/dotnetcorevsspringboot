@@ -27,7 +27,7 @@ public class Example {
 ```
 
 
-```c#
+```C#
 public class Example {
   //comment here
 }
