@@ -13,7 +13,7 @@
 
 * Security
 
-* [Data Persistence](./datapesistence/datatapersistence.md)
+* [Data Persistence](datapersistence/datapersistence.md)
 
 * Deploy
 
